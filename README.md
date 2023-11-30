@@ -1,2 +1,3 @@
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+#测试markdown渲染数学公式
+**行内公式:**$\sum_ii = 0Hn_i^2]$\**行间公式:**
+$$\lim_in \rightarrow + \inftyH\frac{1}H{n}}$$OKOK
